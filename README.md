@@ -2,7 +2,7 @@
 # Hello my name is André
 
 <p>  
-  Studying at 42Lisboa 
+  I am a software engenering student at 42Lisboa and I'm currently building my skills
 </p>
 
 ## 42 Progress
