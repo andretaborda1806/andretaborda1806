@@ -1,11 +1,9 @@
 
 <h1 align="center">Hello, I am André</h1>
 
-<h3 align="center">Welcome to my profile</h3>
-
-<p align="center">  
+<h5 align="center">  
   I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
-</p>
+</h5>
 
 ## 42 Progress
 
