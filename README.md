@@ -5,7 +5,7 @@
   I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
 </h5>
 
-## 42 Progress
+<h3 align="center">42Progres</h3>
 
 <table align="center">
   <tr>
