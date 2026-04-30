@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I am André</h1>
 
-<h2 align="center">Welcome to my profile</h2>
+<h3 align="center">Welcome to my profile</h3>
 
 <p>  
   I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
