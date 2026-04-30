@@ -1,8 +1,10 @@
 
-# Hello my name is André
+# Hello, I'm André
+
+<h2>Welcome to my profile</h2>
 
 <p>  
-  I am a software engenering student at 42Lisboa and I'm currently building my skills
+  I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
 </p>
 
 ## 42 Progress
