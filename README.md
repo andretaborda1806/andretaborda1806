@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my profile</h3>
 
-<p>  
+<p align="center">  
   I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
 </p>
 
