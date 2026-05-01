@@ -86,9 +86,9 @@
     <td>⏳ IN PROGRESS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/antabord1806/CPP-s.git" target="_blank">NetPractice</a></td>
+    <td><a href="https://github.com/andretaborda1806/Net-Practice" target="_blank">NetPractice</a></td>
     <td>Introduction to subnetting by configuring IP addressing, routing, and masks to ensure correct connectivity between nodes.</td>
-    <td>C++</td>
+    <td> </td>
     <td>⏳ IN PROGRESS</td>
   </tr>
 
