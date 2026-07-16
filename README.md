@@ -17,8 +17,6 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
           AGRUPA Cloud
         </a>
       </h3>
-
-```
   <p align="center">
     A private cloud infrastructure designed to provide secure file storage,
     collaboration, and remote access for a small business.
@@ -39,7 +37,6 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
     </a>
   </p>
 </td>
-```
 
   </tr>
 </table>
