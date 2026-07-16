@@ -13,12 +13,14 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center>☁️
+      <h3 align="center">
+        ☁️
         <a href="https://github.com/andretaborda1806/AGRUPA-cloud">
           AGRUPA Cloud
         </a>
       </h3>
-  <p>
+
+  <p align="center">
     A private cloud infrastructure designed to provide secure file storage,
     collaboration, and remote access for a small business.
   </p>
@@ -28,7 +30,6 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
     <img src="https://img.shields.io/badge/Linux-Server-FCC624?logo=linux&logoColor=black" alt="Linux">
     <img src="https://img.shields.io/badge/Nextcloud-Private_Cloud-0082C9?logo=nextcloud&logoColor=white" alt="Nextcloud">
     <img src="https://img.shields.io/badge/MariaDB-Database-003545?logo=mariadb&logoColor=white" alt="MariaDB">
-    <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?logo=nginx&logoColor=white" alt="Nginx">
     <img src="https://img.shields.io/badge/Networking-Infrastructure-4B5563" alt="Networking">
   </p>
 
@@ -41,6 +42,7 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
 
   </tr>
 </table>
+
 
 ### 42Progress
 
