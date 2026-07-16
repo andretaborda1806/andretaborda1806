@@ -33,11 +33,6 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
     <img src="https://img.shields.io/badge/Networking-Infrastructure-4B5563" alt="Networking">
   </p>
 
-  <p align="center">
-    <a href="https://github.com/andretaborda1806/AGRUPA-cloud">
-      <img src="https://img.shields.io/badge/View_Project-GitHub-181717?logo=github&logoColor=white" alt="View project">
-    </a>
-  </p>
 </td>
 
   </tr>
