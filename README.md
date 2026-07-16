@@ -10,18 +10,40 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
 
 <table>
   <tr>
-    <td>
-      <!-- Título e Link -->
-      <h3>📌 <a href="https://github.com/andretaborda1806/AGRUPA-cloud">AGRUPA-cloud</a></h3>
-      <!-- Descrição Curta -->
-      <p>Creating a private cloud</p>
-      <!-- Badges/Tags Tecnológicas -->
-      - Docker containers
-      - Networking
-      - Cloud infrastructure
-    </td>
+    <td width="100%">
+      <h3 align="center">
+        ☁️
+        <a href="https://github.com/andretaborda1806/AGRUPA-cloud">
+          AGRUPA Cloud
+        </a>
+      </h3>
+
+```
+  <p align="center">
+    A private cloud infrastructure designed to provide secure file storage,
+    collaboration, and remote access for a small business.
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Linux-Server-FCC624?logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Nextcloud-Private_Cloud-0082C9?logo=nextcloud&logoColor=white" alt="Nextcloud">
+    <img src="https://img.shields.io/badge/MariaDB-Database-003545?logo=mariadb&logoColor=white" alt="MariaDB">
+    <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/Networking-Infrastructure-4B5563" alt="Networking">
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/andretaborda1806/AGRUPA-cloud">
+      <img src="https://img.shields.io/badge/View_Project-GitHub-181717?logo=github&logoColor=white" alt="View project">
+    </a>
+  </p>
+</td>
+```
+
   </tr>
 </table>
+
 
 ### 42Progress
 
