@@ -1,9 +1,9 @@
 
-<h1 align="center">Hello, I am André</h1>
+<h1>Welcome to my page!</h1>
 
-<h5 align="center">  
-  I am an aspiring software engineer. And right now I am completing the 42 Lisboa commoncore
-</h5>
+<h3>  
+  My name is André, a software developer based in <strong> Lisboa, Portugal 🇵🇹</strong>
+</h3>
 
 <h2 align="center">42Progres</h2>
 
