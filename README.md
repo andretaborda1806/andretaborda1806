@@ -12,11 +12,11 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
   <tr>
     <td>
       <!-- Título e Link -->
-      <h3>📌 <a href="LINK_DO_REPOSITORIO">AGRUPA-cloud</a></h3>
+      <h3>📌 <a href="https://github.com/andretaborda1806/AGRUPA-cloud">AGRUPA-cloud</a></h3>
       <!-- Descrição Curta -->
-      <p>Uma breve descrição sobre o que o seu projeto faz e o objetivo dele.</p>
+      <p>Creating a private cloud</p>
       <!-- Badges/Tags Tecnológicas -->
-      <img src="https://shields.io" alt="React">
+      <img src="https://img.shields.io/badge/Docker%20Containers" alt="React">
       <img src="https://shields.io" alt="Node">
     </td>
   </tr>
