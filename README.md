@@ -16,9 +16,9 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
       <!-- Descrição Curta -->
       <p>Creating a private cloud</p>
       <!-- Badges/Tags Tecnológicas -->
-      * Docker containers
-      * Networking
-      * Cloud infrastructure
+      - Docker containers
+      - Networking
+      - Cloud infrastructure
     </td>
   </tr>
 </table>
