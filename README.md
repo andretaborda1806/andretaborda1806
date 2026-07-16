@@ -1,9 +1,7 @@
 
-<h1>Welcome to my page!</h1>
-
-<h3>  
+# Welcome to my page!</h1>
+  
   My name is André, a software developer based in <strong> Lisboa, Portugal 🇵🇹</strong>
-</h3>
 
 <h2 align="center">42Progres</h2>
 
