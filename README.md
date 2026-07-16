@@ -13,13 +13,13 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">
+      <h3>
         ☁️
         <a href="https://github.com/andretaborda1806/AGRUPA-cloud">
           AGRUPA Cloud
         </a>
       </h3>
-  <p align="center">
+  <p>
     A private cloud infrastructure designed to provide secure file storage,
     collaboration, and remote access for a small business.
   </p>
