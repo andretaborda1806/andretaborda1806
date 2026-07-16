@@ -1,7 +1,8 @@
 
 # Welcome to my page!</h1>
   
-  My name is André, a software developer based in <strong> Lisboa, Portugal 🇵🇹</strong>, I am currently completing the commoncore at <strong>42Lisboa</strong>
+  My name is André, a software developer based in <strong> Lisboa, Portugal 🇵🇹</strong>,
+  I am currently completing the commoncore at <strong>42Lisboa</strong>
 
 ## My Highlights
 
