@@ -44,7 +44,6 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
   </tr>
 </table>
 
-
 ### 42Progress
 
 <table align="center">
