@@ -1,10 +1,16 @@
+# Welcome to my profile
 
-# Welcome to my page!</h1>
-  
-  My name is André, a software developer based in <strong> Lisboa, Portugal 🇵🇹</strong>,
-  I am currently completing the commoncore at <strong>42Lisboa</strong>
+## About Me:
+My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am currently completing the commoncore at 42Lisboa<br>
 
-## My Highlights
+## What I know:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=andretaborda1806&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=andretaborda1806&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=andretaborda1806&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 <h2 align="center">42Progres</h2>
 
