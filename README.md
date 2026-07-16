@@ -8,6 +8,8 @@ My name is André, a software developer based in Lisboa, Portugal 🇵🇹, I am
 
 ## My Highlights so far...
 
+### My Projects
+
 <table>
   <tr>
     <td width="100%">
